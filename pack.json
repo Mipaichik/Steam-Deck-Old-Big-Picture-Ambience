@@ -1,0 +1,10 @@
+{
+  "name": "Old Big Picture Ambience",
+  "description": "Big Picture (2012-2023) Amience Music.",
+  "author": "Mipaichik",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true
+  "ignore": [],
+  "mappings": {}
+}
